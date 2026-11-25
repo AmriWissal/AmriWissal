@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="WISSAL AMRI — Software Engineering | Full-Stack & Applied AI" width="100%"/>
+  <img src="banner.jpg" alt="WISSAL AMRI — Software Engineering | Full-Stack & Applied AI" width="100%"/>
 </p>
 
 <h1 align="center">Wissal AMRI</h1>
